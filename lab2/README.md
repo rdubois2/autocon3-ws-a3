@@ -18,7 +18,7 @@ cd /workspaces/autocon3-ws-a3/lab2/kafka-alarm-sim
 
 ---
 
-## **Kafka-Based Alert Simulation & Export to Prometheus**
+## **Kafka-Based Alert Simulation & Export to Prometheus** test
 
 This part of the lab focuses on simulating **realistic network alerts** using Kafka producers and exposing them as **Prometheus metrics** using a lightweight Python exporter. The goal is to create a reproducible alert simulation and monitoring environment using Docker.
 
