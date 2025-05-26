@@ -354,7 +354,7 @@ jobs:
 
 ---
 
-### 🧪 Step 4: Trigger the Build
+### 🧪 Step 4: Trigger the Build Bonjour
 
 Push a commit to the `main` branch (e.g., update README or re-push the workflow file).  
 The workflow will build the image and push it to:
